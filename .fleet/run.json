@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "REK",
+            "file": "src/rek/__main__.py",
+            "arguments": []
+        }
+    ]
+}
